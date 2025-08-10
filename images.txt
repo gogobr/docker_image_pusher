@@ -8,4 +8,5 @@
 #redis
 #nginx
 #kindest/node:v1.31.1
-registry.k8s.io/kube-apiserver:v1.32.2
+#registry.k8s.io/kube-apiserver:v1.32.2
+registry.k8s.io/coredns/coredns:v1.11.3
