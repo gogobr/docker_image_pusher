@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:5.7
 redis
 nginx
+kindest/node:v1.31.1
