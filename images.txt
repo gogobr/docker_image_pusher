@@ -21,4 +21,5 @@
 #star7th/showdoc:latest
 #yapipro/yapi:latest
 #yapipro/yapi:1.12.0
-mongo:latest
+#mongo:latest
+eclipse-temurin:21
